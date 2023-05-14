@@ -1,4 +1,5 @@
 package chess;
+
 import boardgame.Board;
 import boardgame.Piece;
 
